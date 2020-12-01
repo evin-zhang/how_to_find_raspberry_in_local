@@ -1,4 +1,3 @@
-"""@author:Kevin"""
 
 from scapy.sendrecv import srp
 import step2
